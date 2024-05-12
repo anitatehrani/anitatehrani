@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm passionate about crafting exceptional web expe
 
 ## 🚀 Skills
 
-- **Front-end**: HTML, CSS, JavaScript
-- **Back-end**: PHP, Laravel
+- **Front-end**: HTML, CSS, JavaScript, JQuery
+- **Back-end**: PHP, Laravel, Java
 - **Databases**: MongoDB, MySQL
-- **Other Tools**: Git, Docker, RESTful APIs
+- **Other Tools**: Android Studio, Git, Docker, RESTful APIs
 
 
 ## 📫 Get in Touch
