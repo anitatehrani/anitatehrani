@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hi there, I'm Anita
 
-<!--
-**anitatehrani/anitatehrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about crafting exceptional web experiences and solving intriguing challenges. With expertise in both back-end and front-end technologies, I bring creativity and functionality together to build seamless applications.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end**: HTML, CSS, JavaScript
+- **Back-end**: PHP, Laravel
+- **Databases**: MongoDB, MySQL
+- **Other Tools**: Git, Docker, RESTful APIs
+
+
+## 📫 Get in Touch
+
+- LinkedIn: AnitaTehrani([link](https://www.linkedin.com/in/anita-tehrani/))
+- Email: AnitaTehrani(mailto:anitatn78@gmail.com)
+
+Feel free to connect with me or explore my projects. Let's create something awesome together!
+
+Happy coding! 🌟
