@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about crafting exceptional web expe
 
 - **Front-end**: HTML, CSS, JavaScript, JQuery
 - **Back-end**: PHP, Laravel, Java
-- **Databases**: MongoDB, MySQL
+- **Databases**: MySQL, MongoDB
 - **Other Tools**: Android Studio, Git, Docker, RESTful APIs
 
 
