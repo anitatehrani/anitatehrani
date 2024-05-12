@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm passionate about crafting exceptional web expe
 
 ## 📫 Get in Touch
 
-- LinkedIn: AnitaTehrani([link](https://www.linkedin.com/in/anita-tehrani/))
-- Email: AnitaTehrani(mailto:anitatn78@gmail.com)
+- LinkedIn: AnitaTehrani([anita-tehrani](https://www.linkedin.com/in/anita-tehrani/))
+- Email: anitatn78@gmail.com(mailto:anitatn78@gmail.com)
 
 Feel free to connect with me or explore my projects. Let's create something awesome together!
 
